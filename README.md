@@ -1,20 +1,22 @@
-# Projet X - README
+# Skin Fortnite Checker & AlphaRes - README
 
 ## Description
-Ce projet est une solution simple et efficace pour [décrire brièvement l'objectif du projet].
+Ce projet comprend deux outils :
+- **Skin Fortnite Checker & Generator** : Permet de vérifier et générer des skins Fortnite.
+- **AlphaRes x64** : Outil complémentaire pour l'analyse et la modification des ressources.
 
 ## Installation
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/utilisateur/projet-x.git
+   git clone https://github.com/utilisateur/skin-fortnite-checker-alphares.git
    ```
 2. Accédez au dossier du projet :
    ```bash
-   cd projet-x
+   cd skin-fortnite-checker-alphares
    ```
 
 ## Utilisation
-- Il suffit d'exécuter le fichier `start.bat` pour lancer l'application.
+- Exécutez `start.bat` pour lancer les deux outils automatiquement.
 - Assurez-vous d'avoir les dépendances nécessaires installées si besoin.
 
 ## Remarque
