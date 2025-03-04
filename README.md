@@ -8,11 +8,11 @@ Ce projet comprend deux outils :
 ## Installation
 1. Clonez ce repository :
    ```bash
-   git clone https://github.com/utilisateur/skin-fortnite-checker-alphares.git
+   git clone https://github.com/3D3Npyc/Fortnite-Checker.git
    ```
 2. Accédez au dossier du projet :
    ```bash
-   cd skin-fortnite-checker-alphares
+   cd Fortnite-Checker
    ```
 
 ## Utilisation
